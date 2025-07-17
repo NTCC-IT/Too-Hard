@@ -1,2 +1,3 @@
-# Too-Hard
-An advanced class project completed for bonus credit due to its higher level of difficulty. ~ LemonsHQ
+# Too  Hard
+This project was originally assigned as an advanced challenge for class and was considered beyond the standard difficulty level.
+Successful completion of the assignment earned bonus credit.

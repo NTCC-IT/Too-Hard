@@ -1,0 +1,7 @@
+C:\Users\Adam Pacek\source\repos\Too Hard\Too Hard\obj\Debug\Too Hard.csproj.AssemblyReference.cache
+C:\Users\Adam Pacek\source\repos\Too Hard\Too Hard\obj\Debug\Too Hard.csproj.CoreCompileInputs.cache
+C:\Users\Adam Pacek\source\repos\Too Hard\Too Hard\bin\Debug\Too Hard.exe.config
+C:\Users\Adam Pacek\source\repos\Too Hard\Too Hard\bin\Debug\Too Hard.exe
+C:\Users\Adam Pacek\source\repos\Too Hard\Too Hard\bin\Debug\Too Hard.pdb
+C:\Users\Adam Pacek\source\repos\Too Hard\Too Hard\obj\Debug\Too Hard.exe
+C:\Users\Adam Pacek\source\repos\Too Hard\Too Hard\obj\Debug\Too Hard.pdb

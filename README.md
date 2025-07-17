@@ -1,3 +1,2 @@
-# Too  Hard
-This project was originally assigned as an advanced challenge for class and was considered beyond the standard difficulty level.
-Successful completion of the assignment earned bonus credit.
+# Challenge Project
+This Visual Studio 2022 Console Application was assigned as an advanced class challenge, recognized for its complexity beyond standard coursework. Successful completion of the project earned bonus credit.
